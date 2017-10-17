@@ -15,6 +15,7 @@ namespace Flappy_bird
         public Form1()
         {
             InitializeComponent();
+            // code here
         }
     }
 }
